@@ -230,7 +230,6 @@ span {
 
 .box {
   height: 390px;
-  /* border: 2px solid black; */
   background-color: white;
   width: 23%;
   padding: 20px 0px 15px;
@@ -336,10 +335,9 @@ ul p:hover {
 
 .subsidiary-grid {
   display: grid;
-  grid-template-columns: repeat(7, 1fr); /* for 4 row and 7 column */
+  grid-template-columns: repeat(7, 1fr); 
   gap: 0px 18px;
   grid-row-gap: 1px;
-  /* grid-column-gap: 25px; */
   max-width: 1000px;
   width: 100%;
 }
@@ -384,11 +382,10 @@ ul p:hover {
 }
 .copyright {
   color: #dddddd;
-  /* font-size: 0.7rem; */
   padding-top: 5px;
 }
 .pages {
-  /* font-size: 0.9rem; */
+  
   padding-top: 25px;
 }
 .pages a {
