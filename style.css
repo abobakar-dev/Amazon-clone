@@ -78,7 +78,6 @@
   text-align: center;
   border-top-left-radius: 4px;
   border-bottom-left-radius: 4px;
-  /* margin-left: 14px; */
   /* padding-right: 4px; */
   padding-left: 5px;
   border: none;
@@ -140,8 +139,6 @@ span {
 
 .panel-option p {
   display: inline;
-  /* margin: 4px 0px 6px; */
-  /* padding: 5px 8px; */
   margin-left: 15px;
 }
 .panel-option {
